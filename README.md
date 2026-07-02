@@ -22,7 +22,7 @@ Try it out by forking this repository to your own account.
 
 ![Fork Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/images/forkImage.png?raw=true)
 
-That's about it. You should now have a copy of the repository with the same name in your own GitHub account. You should be able to tell the difference between the original and your copy by looking at the url address. The original will have my GitHub account name in the path. (Look for `cmcntsh`.) `https://github.com/cmcntsh/gitHubForClassAssignments` Your copy should have your username somewhere in the url instead of mine. (If you need help with this, post a question on the discussion board or come to office hours.)
+That's about it. You should now have a copy of the repository with the same name in your own GitHub account. You should be able to tell the difference between the original and your copy by looking at the url address. The original will have my GitHub account name in the path. (Look for `cmcntsh`.) `https://github.com/cmcntsh/N6429_GitHubForClassAssignments` Your copy should have your username somewhere in the url instead of mine. (If you need help with this, post a question on the discussion board or come to office hours.)
 
 ## You can download and upload files directly from your repository on GitHub
 
