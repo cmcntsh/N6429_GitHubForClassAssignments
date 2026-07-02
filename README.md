@@ -63,7 +63,7 @@ You can create a .txt file and write content to it directly in GitHub.
 
 ## Turn in the Assignment Link
 
-* Once you have forked this assignment to your own GitHub account and read through these instructions, create a new text file on your computer called `GitHubForAssignments.txt`.
-* Write a short description of which method you think you will use to put your completed assignments on GitHub in the text file and save it to your computer.
-* Load the text file to your GitHub repository for this assignment.
+* Once you have forked this assignment to your own GitHub account and read through these instructions, create a new text file on your computer or directly in GitHub called `GitHubForAssignments.txt`.
+* Write a short description of your initial impression of GitHub in the text file and save it.
+* Load the text file to your GitHub repository for this assignment if you created it on your computer.
 * Submit the link to your assignment repository in Canvas.
